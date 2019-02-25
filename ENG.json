@@ -1,7 +1,8 @@
 {
 "language": "english",
 "phrases": {
-"i am vegetarian (ovo-lacto)": "I am vegetarian. I do not eat meat, chicken, seafood. Eggs and milk are ok.",
+"i am vegetarian (ovo-lacto)": 
+  {"text": "I am vegetarian. I do not eat meat, chicken, seafood. Eggs and milk are ok.", "source": "Aravindo Wingeier"},
 },
 
 }
