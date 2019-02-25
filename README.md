@@ -11,3 +11,8 @@ Prototype
 * start translations
 * deploy to npm
 * start working on the web/android/ios app
+
+
+# Notes
+Potential sources:
+- ?
