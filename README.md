@@ -3,6 +3,8 @@ Open dictionary of food restrictions for allergy and veg*an. Translations to use
 
 The idea is to create a set of sentences to use in an Vegan/Vegetarian/Pescaterian or Allergy-App. The text is free to use. Most important is that there are good apps for people who need them. 
 
+Its Important to have licence-free translations, CC-by are ok to add in the credits. 
+
 # Status
 Prototype
 
@@ -15,4 +17,4 @@ Prototype
 
 # Notes
 Potential sources:
-- ?
+- https://vegan.cards
