@@ -2,7 +2,11 @@
 "language": "german",
 "reviewed_by": "-"
 "phrases": {
-  "i am vegetarian (ovo-lacto)": "Ich bin ein Vegetarier. Ich esse keine Fleisch, Hünchen, Fisch oder Meeresfrüchte. Eier und Milch sind ok.",
+  "i am vegetarian (ovo-lacto)": "Ich bin Vegetarier. Ich esse kein Fleisch, Geflügel, Fisch oder Meeresfrüchte. Eier und Milch sind ok.",
+  "i am vegetarian (lacto)": "Ich bin Vegetarier. Ich esse kein Fleisch, Geflügel, Fisch, Meeresfrüchte oder Eier. Milch ist ok.",
+  "i am vegetarian (ovo)": "Ich bin Vegetarier. Ich esse kein Fleisch, Geflügel, Fisch, Meeresfrüchte oder Milch. Eier sind ok.",
+
+
   
   
 },
